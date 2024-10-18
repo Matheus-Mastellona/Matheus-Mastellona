@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho como FullStack
 - 🌱 Estudando Java, TypeScript e JavaScript
+- 💻 Graduando em Ciências da Computação (Dom Helder Câmara)
 
 ## 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,7 +14,7 @@
 
 
 ## 💻Skills:
-<div> <br>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="30" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="30" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="30" style="margin-right: 20px;" />
@@ -23,10 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="30" style="margin-right: 20px;" />
 </div>
 
-## 🌐 Social:
+## 🌐 Contatos:
 
 <div> 
   <a href = "mailto:matheusmastelloni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusmastellona/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://wa.me/5531998143062" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
