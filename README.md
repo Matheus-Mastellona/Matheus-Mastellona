@@ -5,12 +5,15 @@
 - 💻 Graduando em Ciências da Computação (Dom Helder Câmara)
 
 ## 📊 GitHub Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus-Mastellona&show_icons=true&theme=holi&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-Mastellona&layout=compact&langs_count=8&card_width=320&theme=holi" />
-</a>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Matheus-Mastellona&show_icons=true&theme=holi&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-Mastellona&layout=compact&langs_count=8&card_width=320&theme=holi" />
+  </a>
+</div>
+
 
 
 ## 💻Skills:
@@ -22,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="30" style="margin-right: 20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="30" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="30" style="margin-right: 20px;" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40" style="margin-right: 20px;" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" style="margin-right: 20px;" />
 </div>
 
 ## 🌐 Contatos:
