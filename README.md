@@ -1,6 +1,6 @@
 ## ☘️Sobre mim:
 
-- 🔭 Hoje trabalho como FullStack
+- 🔭 Hoje trabalho voluntariamente como dev back-end
 - 🌱 Estudando Java, TypeScript e JavaScript
 - 💻 Graduando em Ciências da Computação (Dom Helder Câmara)
 
