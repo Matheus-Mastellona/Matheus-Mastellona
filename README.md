@@ -1,8 +1,8 @@
 ## ☘️Sobre mim:
 
-- 🔭 Hoje trabalho voluntariamente como dev back-end
-- 🌱 Estudando Java, TypeScript e JavaScript
-- 💻 Graduando em Ciências da Computação (Dom Helder Câmara)
+- 🔭 Hoje trabalho como dev full stack
+- 🌱 Estudando Java, TypeScript, JavaScript e análise de dados
+- 💻 Graduado em Ciências da Computação (Dom Helder Câmara)
 
 ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; gap: 10px;">
