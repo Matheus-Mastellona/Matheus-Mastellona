@@ -1,7 +1,7 @@
 ## ☘️Sobre mim:
 
 - 🔭 Hoje trabalho como dev full stack
-- 🌱 Estudando Java, TypeScript, JavaScript e análise de dados
+- 🌱 Estudando Java, TypeScript, JavaScript e Análise de Dados
 - 💻 Graduado em Ciências da Computação (Dom Helder Câmara)
 
 ## 📊 GitHub Stats:
