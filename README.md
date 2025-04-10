@@ -3,12 +3,12 @@
 
 ---
 
-Opa! Sou **Matheus Mastellona**, um desenvolvedor apaixonado por tecnologia e inovação. Com formação em **Ciência da Computação**, tenho experiência em desenvolvimento Back-end e QA . Participei de alguns projetos como plataforma educacional, analise de dados com database do IBGE, CRUD's em Java, validações de XSD e XML, flutter, entre outros.​
+Opa! Sou **Matheus Mastellona**, um desenvolvedor apaixonado por tecnologia e inovação. Com formação em **Ciência da Computação**, tenho experiência em desenvolvimento Back-end e QA . Participei de alguns projetos como plataforma educacional, Análise de Dados com DataBase do IBGE, CRUD's em Java, validações de XSD e XML, Flutter, entre outros.​
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa.
 <br>
 
-<p align="center">🌱 Estudando Java, TypeScript, JavaScript e Análise de Dados 🌱</p>
+<p align="center">🌱 Aprendendo Java, TypeScript, JavaScript e Análise de Dados 🌱</p>
 
 ## <h1 align="center">📊 GitHub Stats 📊</h1>
 <div align="center">
