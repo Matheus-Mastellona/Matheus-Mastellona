@@ -3,7 +3,7 @@
 
 ---
 
-Opa! Sou **Matheus Mastellona**, um desenvolvedor apaixonado por tecnologia e inovação. Com formação em **Ciência da Computação**, tenho experiência em desenvolvimento Back-end e QA . Participei de alguns projetos como plataforma educacional, analise de dados com databse do IBGE, CRUD's em Java, validações de XSD e XML, flutter, entre outros.​
+Opa! Sou **Matheus Mastellona**, um desenvolvedor apaixonado por tecnologia e inovação. Com formação em **Ciência da Computação**, tenho experiência em desenvolvimento Back-end e QA . Participei de alguns projetos como plataforma educacional, analise de dados com database do IBGE, CRUD's em Java, validações de XSD e XML, flutter, entre outros.​
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa.
 <br>
