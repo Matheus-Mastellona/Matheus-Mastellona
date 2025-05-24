@@ -8,6 +8,15 @@ Opa! Sou **Matheus Mastellona**, um desenvolvedor apaixonado por tecnologia e in
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa.
 <br>
 
+<h3 align="center">🎓 Diploma de Graduação 🎓</h3>
+
+<div align="center">
+  <img src="DIPLOMA_resized.png" alt="Diploma de Graduação" width="400"/>
+  <br>
+  <i>Diploma de Bacharel em Ciência da Computação - 2025</i>
+</div>
+<br>
+
 <p align="center">🌱 Aprendendo Java, TypeScript, JavaScript e Análise de Dados 🌱</p>
 
 ## <h1 align="center">📊 GitHub Stats 📊</h1>
